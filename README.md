@@ -2,7 +2,7 @@
 # Hi there, I'm Zishan 👋
 
 ### 👨‍💻 About Me
-I'm a **17-year-old full stack web developer**.  
+I'm a **full stack web developer**.  
 With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable web applications using modern technologies.
 
 ![Fiverr 5-Star Rating](https://img.shields.io/badge/Fiverr%20Rating-4.9⭐-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white)
