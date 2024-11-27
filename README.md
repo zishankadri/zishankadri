@@ -36,10 +36,6 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/zishan-kadri/)
-- [Twitter](https://twitter.com/zishan_kadri/)
-
 
 
 <!--
