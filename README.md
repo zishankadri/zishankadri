@@ -9,17 +9,53 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 ![Fiverr 5-Star Rating](https://img.shields.io/badge/Fiverr%20Rating-4.9⭐-brightgreen?style=for-the-badge&logo=fiverr&logoColor=white)
 ![Orders Completed](https://img.shields.io/badge/Orders%20Completed-30%2B-blue?style=for-the-badge)
 -->
-### 🛠️ My Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,tailwind,react,postgresql,mysql,python,java,cpp,docker,scikitlearn,linux,ubuntu,git,github,html,css,javascript,githubactions,gitlab,rust" style="height:96px;" />
-</p>
+# 👋 Hi, I'm Kadri
+
+🔍 **Open to opportunities** in **Backend Development**, **AI-driven Applications**, or **Research-focused Roles**.  
+✅ 2+ years building **scalable Django applications** and **data-driven systems**.  
+
+---
+
+### 🛠 Skills
+
+#### **Backend**
+<p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,postgresql,mysql" style="height:48px;" /> </p>
+
+#### **Frontend**
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript" style="height:48px;" /> </p>
+
+#### **Programming Languages**
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,cpp,rust" style="height:48px;" /> </p>
+
+#### **DevOps & Tools**
+<p align="left"> <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,ubuntu,githubactions" style="height:48px;" /> </p>
 
 <!--
-### 📫 How to reach me:
-  [Portfolio](https://zishan-kadri.onrender.com) <br>
-  [LinkedIn](https://www.linkedin.com/in/zishan-kadri/)
+#### **Machine Learning**
+![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
 -->
+
+<!--
+---
+
+### 🚀 Featured Projects
+- **Agrofletes** – Agricultural Freight Platform (Django + Tailwind)  
+  [Repo](#) | [Live Demo](#)
+- **AI Voice Ordering System** – Flask + Twilio + Gemini API  
+  [Repo](#) | [Demo](#)
+-->
+
+---
+
+### 📫 How to reach me:
+[🌐 Portfolio](https://zishan-kadri.onrender.com) | [LinkedIn](https://www.linkedin.com/in/zishan-kadri/)
+
+
+
+
+
+
 
 <!--
 **Blackjoker52/blackjoker52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
