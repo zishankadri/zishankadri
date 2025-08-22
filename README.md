@@ -17,7 +17,7 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 
 ---
 
-### 🛠 Skills
+### 🛠️ Skills
 
 #### **Backend**
 <p align="left"> <img src="https://skillicons.dev/icons?i=django,flask,postgresql,mysql" style="height:48px;" /> </p>
