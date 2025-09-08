@@ -49,7 +49,7 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 ---
 
 ### 📫 How to reach me:
-[🌐 Portfolio](https://zishan-kadri.onrender.com) | [LinkedIn](https://www.linkedin.com/in/zishan-kadri/)
+[🌐 Portfolio](https://zishan-kadri.onrender.com) | kadrizishan06@gmail.com
 
 
 
