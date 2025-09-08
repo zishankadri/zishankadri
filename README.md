@@ -11,7 +11,7 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 -->
 
 # 👋 Hi, I'm Kadri
-An 18-year-old software enthusiast with a strong passion for technology and everything that comes with it.
+An 18-year-old software enthusiast with a strong passion for technology and everything that comes with it. <br>
 🔍 **Open to opportunities** in **Backend Development**, **AI-driven Applications**, or **Research-focused Roles**.  
 ✅ 2+ years building **scalable Django applications** and **data-driven systems**.  
 
