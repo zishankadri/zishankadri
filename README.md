@@ -10,13 +10,6 @@ With a **5-⭐ rating on Fiverr**, I specialize in building robust and scalable 
 ![Orders Completed](https://img.shields.io/badge/Orders%20Completed-30%2B-blue?style=for-the-badge)
 -->
 
-# 👋 Hi, I'm Kadri
-An 18-year-old software enthusiast with a strong passion for technology and everything that comes with it. <br>
-2+ years building **scalable applications** and **data-driven systems**.  
-Open to opportunities in **Backend Development**, **AI-driven Applications**, or **Research-focused Roles**.  
-
----
-
 ### 🛠️ Skills
 
 #### **Backend**
