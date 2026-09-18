@@ -1,4 +1,13 @@
-## Hi there 👋
+### 🏆 Featured Recognition
+
+> *"This project goes above and beyond what I commonly find in actual enterprise codebases... It makes me happy to see such a novel project backed by such a thoughtful codebase."*
+>
+> \- **Python Discord Admin / Code Jam Judge**
+
+**Project:** [Tetris Bugs](https://github.com/zishankadri/tetris-bugs)<br>
+**My Role:** `Team Leader` • `Architecture` • `Documentation` • `Ideation`
+
+
 
 <!--
 **zishankadri/zishankadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
