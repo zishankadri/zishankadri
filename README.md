@@ -2,7 +2,7 @@
 
 > *"This project goes above and beyond what I commonly find in actual enterprise codebases... It makes me happy to see such a novel project backed by such a thoughtful codebase."*
 >
-> \- **Official Judge, Python Discord Code Jam**
+> \- **Official Judge, Python Discord Code Jam** [Read full review](https://github.com/python-discord/code-jam-12/pull/19#pullrequestreview-3227094634)
 
 **Project:** [Tetris Bugs](https://github.com/zishankadri/tetris-bugs)<br>
 **My Role:** `Team Leader` • `Architecture` • `Documentation` • `Ideation`
